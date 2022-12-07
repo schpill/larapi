@@ -1,5 +1,5 @@
 {
-    "name": "examyou/rest-api",
+    "name": "schpill/larapi",
     "description": "RestAPI plugin",
     "type": "library",
     "require": {
